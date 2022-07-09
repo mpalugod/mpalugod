@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpalugod
-- 👀 I’m interested in embedded systems and Windows programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in embedded systems (Arduino, PIC, other), C# Windows programming, batteries, automated testers, etc.
+- 🌱 I’m currently learning Python and C#.
 - 💞️ I’m looking to collaborate on ... not sure yet, just starting on Github.
 - 📫 How to reach me ... email: mpalugod@yahoo.com
 
